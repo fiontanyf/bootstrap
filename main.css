@@ -1,0 +1,170 @@
+
+
+
+@media (max-width: 575px) {  
+    .jumbotron h1 {
+	font-size:40px;
+	}
+    
+    
+    .btn-success{
+        margin-top: 10px;
+    }
+}
+
+
+@media (min-width: 768px) { 
+    .jumbotron h1 {
+	font-size:40px;
+	}
+    
+    .btn-success{
+        margin-top: 0;
+    }
+}
+
+
+@media (min-width: 992px) {  
+    .jumbotron h1 {
+	font-size:50px;
+	} 
+     .btn-success{
+        margin-top: 0;
+    }
+}
+
+
+@media (min-width: 1200px) {   
+    .jumbotron h1 {
+	font-size:70px;
+	}
+     .btn-success{
+        margin-top: 0;
+    }
+}
+
+
+
+
+.jumbotron{
+    
+    background-image: url(images/fruit-and-veg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 400px;
+    
+}
+
+
+.jumbotron h1{
+ font-family: 'Lobster', cursive;
+    color: white;
+ 
+}
+
+
+label{
+    color: white;
+    font-size: 21px;
+    
+}
+
+p{
+    
+    font-family: 'Spectral', serif;
+    font-size: 17px;
+    padding-top: 20px;
+}
+
+
+small{
+    
+    color: cadetblue;
+    
+}
+
+
+#buzz .col-md-4 small{
+font-style: italic;    
+    
+    
+}
+
+
+#buzz h2{
+    margin-top: 0;
+    padding-top: 0;
+    
+}
+
+#buzz{
+    margin-bottom: 60px;
+    
+}
+
+
+
+
+#mission{
+    background-color:rgba(32, 35, 41, 0.9);
+    color: #ddd;
+  
+    padding-bottom: 50px;
+    
+}
+
+#mission small{
+   
+    color:cornsilk;
+  
+}
+
+
+#mission h2{
+   
+    margin-bottom: 20px;
+  
+    
+}
+
+#mission p{
+   
+font-family: Arial;
+    font-size: 19px;
+    font-style: normal;
+    
+}
+
+#social-buttons{
+    margin-top: 30px;
+ 
+    
+}
+
+
+.btn-twitter{
+    background-color: #00acee;
+ 
+  color: white;
+    
+}
+
+.btn-facebook{
+    
+     background-color: #4868ac;
+
+  color: white;
+    
+}
+
+.btn-pinterest{
+     background-color: #b62f26;
+  
+  color: white;
+    
+}
+
+
+
+
+
